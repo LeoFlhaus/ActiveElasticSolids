@@ -4,7 +4,7 @@ Created on Mon Mar 24 13:25:44 2025
 
 @author: flehi
 
-Perform a Voronoi tessellation on a flat surface
+Perform a Voronoi tessellation on a flat and spherical surface
 - Input are two .txt files from the initialization
 - Output are two files with a) the positions and b) the neighbors
 """
